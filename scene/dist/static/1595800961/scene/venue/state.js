@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fdist\u002Fstatic\u002F1595800961",layout:"default",error:{statusCode:404,path:a,message:"This page could not be found"},serverRendered:false,routePath:a,config:{}}}("\u002Fscene\u002Fvenue"));
